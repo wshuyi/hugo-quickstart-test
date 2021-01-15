@@ -1,0 +1,4 @@
+baseURL = "https://shuyi-quickstart.netlify.app/"
+languageCode = "en-us"
+title = "Shuyi's Digital Garden"
+theme = "zen"
