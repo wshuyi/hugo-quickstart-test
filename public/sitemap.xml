@@ -3,23 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shuyi-quickstart.netlify.app/posts/2021-01-15-new/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shuyi-quickstart.netlify.app/posts/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shuyi-quickstart.netlify.app/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shuyi-quickstart.netlify.app/posts/a-copied-one/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <loc>https://shuyi-quickstart.netlify.app/posts/helloworld/</loc>
   </url>
   
   <url>
@@ -27,11 +11,15 @@
   </url>
   
   <url>
-    <loc>https://shuyi-quickstart.netlify.app/tags/</loc>
+    <loc>https://shuyi-quickstart.netlify.app/posts/</loc>
   </url>
   
   <url>
-    <loc>https://shuyi-quickstart.netlify.app/posts/index-copy/</loc>
+    <loc>https://shuyi-quickstart.netlify.app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shuyi-quickstart.netlify.app/tags/</loc>
   </url>
   
 </urlset>
