@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shuyi-quickstart.netlify.app/posts/helloworld/</loc>
+    <loc>https://shuyi-quickstart.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>https://shuyi-quickstart.netlify.app/categories/</loc>
+    <loc>https://shuyi-quickstart.netlify.app/posts/helloworld/</loc>
   </url>
   
   <url>
