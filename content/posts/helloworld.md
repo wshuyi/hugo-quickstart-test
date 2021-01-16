@@ -2,4 +2,4 @@
 
 这是我的第一篇博客
 
-![](/test.jpeg)
+![example](/test.jpg)
